@@ -10,10 +10,6 @@ draw = False
 ix = -1
 iy = -1
 
-def euc_dist(center, p):
-    return np.sqrt((center[0] - p[0])**2) + np.sqrt((center[0] - p[0])**2)
-
-
 def draw_circle(event, x, y, param, flags):
     global ix, iy, draw, img, current_img
     if event == cv2.EVENT_LBUTTONDOWN:
@@ -31,13 +27,6 @@ def draw_circle(event, x, y, param, flags):
                 cv2.circle(overlay, (x, y), 1, 255, 2)
                 current_img = cv2.addWeighted(current_img, opac, overlay, 1 - opac, 0)
                 img = current_img
-            # overlays_base = current_img.copy()
-            # for i in range(1, 16):
-            #     overlay = overlays_base.copy()
-            #     opac = 0.7
-            #     cv2.circle(overlay, (x, y), i, 255, -1)
-            #     current_img = cv2.addWeighted(current_img, opac, overlay, 1 - opac, 0)
-            #     img = current_img
     elif event == cv2.EVENT_LBUTTONUP:
         draw = False
     elif event == cv2.EVENT_RBUTTONDOWN:

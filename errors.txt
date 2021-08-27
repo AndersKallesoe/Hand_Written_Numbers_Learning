@@ -3450,3 +3450,577 @@
 4285 errors and 55715 correct classifications
 
 4289 errors and 55711 correct classifications
+
+
+
+4292 errors and 55708 correct classifications
+
+4289 errors and 55711 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4281 errors and 55719 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4280 errors and 55720 correct classifications
+
+4281 errors and 55719 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4280 errors and 55720 correct classifications
+
+4284 errors and 55716 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4284 errors and 55716 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4282 errors and 55718 correct classifications
+
+4284 errors and 55716 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4283 errors and 55717 correct classifications
+
+4284 errors and 55716 correct classifications
+
+4283 errors and 55717 correct classifications
+
+
+4285 errors and 55715 correct classifications
+
+
+
+
+
+55166 errors and 4834 correct classifications
+
+
+54860 errors and 5140 correct classifications
+
+53968 errors and 6032 correct classifications
+
+52968 errors and 7032 correct classifications
+
+52113 errors and 7887 correct classifications
+
+51552 errors and 8448 correct classifications
+
+51013 errors and 8987 correct classifications
+
+50588 errors and 9412 correct classifications
+
+50239 errors and 9761 correct classifications
+
+49820 errors and 10180 correct classifications
+
+49472 errors and 10528 correct classifications
+
+49188 errors and 10812 correct classifications
+
+49045 errors and 10955 correct classifications
+
+48869 errors and 11131 correct classifications
+
+48591 errors and 11409 correct classifications
+
+48303 errors and 11697 correct classifications
+
+48266 errors and 11734 correct classifications
+
+48223 errors and 11777 correct classifications
+
+48120 errors and 11880 correct classifications
+
+48017 errors and 11983 correct classifications
+
+47734 errors and 12266 correct classifications
+
+47583 errors and 12417 correct classifications
+
+47501 errors and 12499 correct classifications
+
+47411 errors and 12589 correct classifications
+
+47143 errors and 12857 correct classifications
+
+46881 errors and 13119 correct classifications
+
+46902 errors and 13098 correct classifications
+
+46757 errors and 13243 correct classifications
+
+46630 errors and 13370 correct classifications
+
+46475 errors and 13525 correct classifications
+
+46413 errors and 13587 correct classifications
+
+46290 errors and 13710 correct classifications
+
+46044 errors and 13956 correct classifications
+
+46041 errors and 13959 correct classifications
+
+45820 errors and 14180 correct classifications
+
+45578 errors and 14422 correct classifications
+
+45361 errors and 14639 correct classifications
+
+45089 errors and 14911 correct classifications
+
+44815 errors and 15185 correct classifications
+
+44480 errors and 15520 correct classifications
+
+44230 errors and 15770 correct classifications
+
+43831 errors and 16169 correct classifications
+
+43542 errors and 16458 correct classifications
+
+43147 errors and 16853 correct classifications
+
+42817 errors and 17183 correct classifications
+
+42378 errors and 17622 correct classifications
+
+41992 errors and 18008 correct classifications
+
+41694 errors and 18306 correct classifications
+
+41356 errors and 18644 correct classifications
+
+41002 errors and 18998 correct classifications
+
+40564 errors and 19436 correct classifications
+
+40172 errors and 19828 correct classifications
+
+39901 errors and 20099 correct classifications
+
+39511 errors and 20489 correct classifications
+
+39132 errors and 20868 correct classifications
+
+38869 errors and 21131 correct classifications
+
+38619 errors and 21381 correct classifications
+
+38103 errors and 21897 correct classifications
+
+37797 errors and 22203 correct classifications
+
+37206 errors and 22794 correct classifications
+
+36990 errors and 23010 correct classifications
+
+36652 errors and 23348 correct classifications
+
+36446 errors and 23554 correct classifications
+
+36193 errors and 23807 correct classifications
+
+35665 errors and 24335 correct classifications
+
+35451 errors and 24549 correct classifications
+
+35037 errors and 24963 correct classifications
+
+34765 errors and 25235 correct classifications
+
+34517 errors and 25483 correct classifications
+
+34282 errors and 25718 correct classifications
+
+33910 errors and 26090 correct classifications
+
+33648 errors and 26352 correct classifications
+
+33318 errors and 26682 correct classifications
+
+33045 errors and 26955 correct classifications
+
+32676 errors and 27324 correct classifications
+
+32435 errors and 27565 correct classifications
+
+32031 errors and 27969 correct classifications
+
+31693 errors and 28307 correct classifications
+
+31326 errors and 28674 correct classifications
+
+31101 errors and 28899 correct classifications
+
+30832 errors and 29168 correct classifications
+
+30622 errors and 29378 correct classifications
+
+30377 errors and 29623 correct classifications
+
+30035 errors and 29965 correct classifications
+
+29797 errors and 30203 correct classifications
+
+29551 errors and 30449 correct classifications
+
+29317 errors and 30683 correct classifications
+
+29061 errors and 30939 correct classifications
+
+28837 errors and 31163 correct classifications
+
+28664 errors and 31336 correct classifications
+
+28411 errors and 31589 correct classifications
+
+28213 errors and 31787 correct classifications
+
+27861 errors and 32139 correct classifications
+
+27679 errors and 32321 correct classifications
+
+27386 errors and 32614 correct classifications
+
+27206 errors and 32794 correct classifications
+
+27034 errors and 32966 correct classifications
+
+26827 errors and 33173 correct classifications
+
+26537 errors and 33463 correct classifications
+
+26204 errors and 33796 correct classifications
+
+25767 errors and 34233 correct classifications
+
+25550 errors and 34450 correct classifications
+
+25250 errors and 34750 correct classifications
+
+25011 errors and 34989 correct classifications
+
+24772 errors and 35228 correct classifications
+
+24654 errors and 35346 correct classifications
+
+24381 errors and 35619 correct classifications
+
+24181 errors and 35819 correct classifications
+
+24009 errors and 35991 correct classifications
+
+23737 errors and 36263 correct classifications
+
+23603 errors and 36397 correct classifications
+
+23345 errors and 36655 correct classifications
+
+23156 errors and 36844 correct classifications
+
+22784 errors and 37216 correct classifications
+
+22349 errors and 37651 correct classifications
+
+21973 errors and 38027 correct classifications
+
+21763 errors and 38237 correct classifications
+
+21718 errors and 38282 correct classifications
+
+21482 errors and 38518 correct classifications
+
+21226 errors and 38774 correct classifications
+
+21104 errors and 38896 correct classifications
+
+20937 errors and 39063 correct classifications
+
+20672 errors and 39328 correct classifications
+
+20377 errors and 39623 correct classifications
+
+20186 errors and 39814 correct classifications
+
+20082 errors and 39918 correct classifications
+
+19970 errors and 40030 correct classifications
+
+19883 errors and 40117 correct classifications
+
+19744 errors and 40256 correct classifications
+
+19527 errors and 40473 correct classifications
+
+19295 errors and 40705 correct classifications
+
+19201 errors and 40799 correct classifications
+
+19132 errors and 40868 correct classifications
+
+19008 errors and 40992 correct classifications
+
+18851 errors and 41149 correct classifications
+
+18678 errors and 41322 correct classifications
+
+18598 errors and 41402 correct classifications
+
+18389 errors and 41611 correct classifications
+
+18348 errors and 41652 correct classifications
+
+18155 errors and 41845 correct classifications
+
+18047 errors and 41953 correct classifications
+
+17952 errors and 42048 correct classifications
+
+17636 errors and 42364 correct classifications
+
+17441 errors and 42559 correct classifications
+
+17373 errors and 42627 correct classifications
+
+17262 errors and 42738 correct classifications
+
+17152 errors and 42848 correct classifications
+
+17015 errors and 42985 correct classifications
+
+16988 errors and 43012 correct classifications
+
+16918 errors and 43082 correct classifications
+
+16813 errors and 43187 correct classifications
+
+16688 errors and 43312 correct classifications
+
+16643 errors and 43357 correct classifications
+
+16570 errors and 43430 correct classifications
+
+16395 errors and 43605 correct classifications
+
+16283 errors and 43717 correct classifications
+
+16297 errors and 43703 correct classifications
+
+16251 errors and 43749 correct classifications
+
+16194 errors and 43806 correct classifications
+
+16140 errors and 43860 correct classifications
+
+15966 errors and 44034 correct classifications
+
+15916 errors and 44084 correct classifications
+
+15841 errors and 44159 correct classifications
+
+15803 errors and 44197 correct classifications
+
+15753 errors and 44247 correct classifications
+
+15628 errors and 44372 correct classifications
+
+15574 errors and 44426 correct classifications
+
+15483 errors and 44517 correct classifications
+
+15434 errors and 44566 correct classifications
+
+15351 errors and 44649 correct classifications
+
+15264 errors and 44736 correct classifications
+
+15184 errors and 44816 correct classifications
+
+15157 errors and 44843 correct classifications
+
+15108 errors and 44892 correct classifications
+
+15034 errors and 44966 correct classifications
+
+14976 errors and 45024 correct classifications
+
+14930 errors and 45070 correct classifications
+
+14840 errors and 45160 correct classifications
+
+14771 errors and 45229 correct classifications
+
+14835 errors and 45165 correct classifications
+
+14818 errors and 45182 correct classifications
+
+14682 errors and 45318 correct classifications
+
+14637 errors and 45363 correct classifications
+
+14597 errors and 45403 correct classifications
+
+14519 errors and 45481 correct classifications
+
+14448 errors and 45552 correct classifications
+
+14371 errors and 45629 correct classifications
+
+14312 errors and 45688 correct classifications
+
+14280 errors and 45720 correct classifications
+
+14176 errors and 45824 correct classifications
+
+14142 errors and 45858 correct classifications
+
+14058 errors and 45942 correct classifications
+
+14055 errors and 45945 correct classifications
+
+14012 errors and 45988 correct classifications
+
+13921 errors and 46079 correct classifications
+
+13830 errors and 46170 correct classifications
+
+13780 errors and 46220 correct classifications
+
+13679 errors and 46321 correct classifications
+
+13574 errors and 46426 correct classifications
+
+13534 errors and 46466 correct classifications
+
+13479 errors and 46521 correct classifications
+
+13475 errors and 46525 correct classifications
+
+13355 errors and 46645 correct classifications
+
+13290 errors and 46710 correct classifications
+
+13242 errors and 46758 correct classifications
+
+13191 errors and 46809 correct classifications
+
+13115 errors and 46885 correct classifications
+
+13063 errors and 46937 correct classifications
+
+13012 errors and 46988 correct classifications
+
+12916 errors and 47084 correct classifications
+
+12807 errors and 47193 correct classifications
+
+12678 errors and 47322 correct classifications
+
+12734 errors and 47266 correct classifications
+
+12602 errors and 47398 correct classifications
+
+12490 errors and 47510 correct classifications
+
+12405 errors and 47595 correct classifications
+
+12350 errors and 47650 correct classifications
+
+12330 errors and 47670 correct classifications
+
+12332 errors and 47668 correct classifications
+
+12252 errors and 47748 correct classifications
+
+12192 errors and 47808 correct classifications
+
+12108 errors and 47892 correct classifications
+
+12075 errors and 47925 correct classifications
+
+11957 errors and 48043 correct classifications
+
+11897 errors and 48103 correct classifications
+
+11848 errors and 48152 correct classifications
+
+11794 errors and 48206 correct classifications
+
+11720 errors and 48280 correct classifications
+
+11695 errors and 48305 correct classifications
+
+11698 errors and 48302 correct classifications
+
+11627 errors and 48373 correct classifications
+
+11637 errors and 48363 correct classifications
+
+11526 errors and 48474 correct classifications
+
+11455 errors and 48545 correct classifications
+
+11408 errors and 48592 correct classifications
+
+11345 errors and 48655 correct classifications
+
+11256 errors and 48744 correct classifications
+
+11227 errors and 48773 correct classifications
+
+11225 errors and 48775 correct classifications
+
+11134 errors and 48866 correct classifications
+
+11155 errors and 48845 correct classifications
+
+11091 errors and 48909 correct classifications
+
+11063 errors and 48937 correct classifications
+
+11015 errors and 48985 correct classifications
+
+11129 errors and 48871 correct classifications
+
+10946 errors and 49054 correct classifications

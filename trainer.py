@@ -6,3 +6,4 @@ for n in range(1, 50):
         errors_file.close()
     print('starting training with ', 600, 'batches')
     network.train_network(600)
+    network.test_network()
