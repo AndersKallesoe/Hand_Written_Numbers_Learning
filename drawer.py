@@ -40,7 +40,7 @@ class Draw:
         while True:
             try:
                 cv2.getWindowProperty('Numberdrawing', 0)
-            except cv2.Error:
+            except:
                 break
             cv2.imshow('Numberdrawing', self.img)
             res = cv2.waitKey(1)
