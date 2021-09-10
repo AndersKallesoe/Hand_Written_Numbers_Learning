@@ -4,7 +4,7 @@ from mlxtend.data import loadlocal_mnist
 
 
 class Network:
-    def __init__(self):
+    def __init__(self, learning_rate):
         self.images, self.labels = loadlocal_mnist(
             images_path=r"training_data\train-images.idx3-ubyte",
             labels_path=r"training_data\train-labels.idx1-ubyte"
@@ -14,6 +14,7 @@ class Network:
             labels_path=r"test_data\t10k-labels.idx1-ubyte"
         )
 
+        self.learning_rate = learning_rate
         self.input_layer = np.zeros((28 * 28, 1))
         self.expected_output = np.zeros((10, 1))
 
@@ -71,8 +72,8 @@ class Network:
                 w_adj[-l] = np.outer(a_list[-l-1], z_error).T
             weight_adjustments = [(w - adj) for w, adj in list(zip(weight_adjustments, w_adj))]
             biases_adjustments = [(b - adj) for b, adj in list(zip(biases_adjustments, b_adj))]
-        self.weights = [w + adj/2000 for w, adj in list(zip(self.weights, weight_adjustments))]
-        self.biases = [b + adj/2000 for b, adj in list(zip(self.biases, biases_adjustments))]
+        self.weights = [w + adj/self.learning_rate for w, adj in list(zip(self.weights, weight_adjustments))]
+        self.biases = [b + adj/self.learning_rate for b, adj in list(zip(self.biases, biases_adjustments))]
 
     def write_settings_to_file(self):
         weights = {
