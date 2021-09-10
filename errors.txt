@@ -12318,3 +12318,46 @@
 3298 errors and 56702 correct classifications
 
 3315 errors and 56685 correct classifications
+
+
+3354 errors and 56646 correct classifications
+
+3288 errors and 56712 correct classifications
+
+3257 errors and 56743 correct classifications
+
+3273 errors and 56727 correct classifications
+
+3286 errors and 56714 correct classifications
+
+3246 errors and 56754 correct classifications
+
+3201 errors and 56799 correct classifications
+
+3224 errors and 56776 correct classifications
+
+3227 errors and 56773 correct classifications
+
+3243 errors and 56757 correct classifications
+
+3189 errors and 56811 correct classifications
+
+3240 errors and 56760 correct classifications
+
+3238 errors and 56762 correct classifications
+
+3205 errors and 56795 correct classifications
+
+3187 errors and 56813 correct classifications
+
+3250 errors and 56750 correct classifications
+
+3227 errors and 56773 correct classifications
+
+3192 errors and 56808 correct classifications
+
+3205 errors and 56795 correct classifications
+
+3169 errors and 56831 correct classifications
+
+3228 errors and 56772 correct classifications
