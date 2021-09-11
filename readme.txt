@@ -1,5 +1,7 @@
 This project has been made using the numpy, json, cv2 and mlxtend libraries
 
+it is an implementation of a classic neural network that can recognize hand-written digits from 0 to 9.
+
 The main.py file takes parameters: 
 	"train [n] [b] [l]" -> perform n training sessions on the network splitting the training data into b randomized
 	           batches for each training session with a learning rate 1/l.
