@@ -6,16 +6,23 @@ The drawer.py file contains code for rendering a graphical user interface for dr
 network to make a guess on which digit it is.
 The whole project can be run via the main.py file.
 
-The main.py file takes parameters: 
-	"train [n] [b] [l]" -> perform n training sessions on the network splitting the training data into b randomized
-	                       batches for each training session with a learning rate 1/l.
+The main.py file listens for input:
+    Phase 1
+    "load [s]"          -> Load save s
+    "create [s] [hl] "  -> Create save s with hidden layers in the dimensions of hl (given as comma-separated integers wrapped in "[ ]" brackets
+    For both, the learning rate is set to 1/100
+
+    Phase 2
+    "l_rate [l]"        -> Set learning rate to 1/l
+	"train [n] [b]"     -> perform n training sessions on the network splitting the training data into b randomized
+	                       batches for each training session.
 	"test" 		        -> test how the network performs on the test data
 	"draw"		        -> render graphical user interface for drawing a number.
 			               right-clicking resets the canvas and space-bar submits the picture to the network
 			               and prints the network's guess on the input to the terminal.
 
 TODO:
-	- Add command-line functionality for choosing which weight and bias files to read from and write to
 	- Add possibility of training with dynamic learning rate
 	- Add functionality to log information on test data performance during testing and gradients during training for
 	  analysis
+	- Add feedback print statements to main and listen function

@@ -4,7 +4,7 @@ from mlxtend.data import loadlocal_mnist
 
 
 class Network:
-    def __init__(self, learning_rate):
+    def __init__(self, learning_rate, save):
         self.images, self.labels = loadlocal_mnist(
             images_path=r"training_data\train-images.idx3-ubyte",
             labels_path=r"training_data\train-labels.idx1-ubyte"
@@ -18,13 +18,13 @@ class Network:
         self.input_layer = np.zeros((28 * 28, 1))
         self.expected_output = np.zeros((10, 1))
 
-        weights_file = open(r'weights.json')
-        weights_dict = json.load(weights_file)
-        self.weights = [np.array(json.loads(weights_dict[k])) for k in weights_dict]
+        with open(fr'saves\{save}\weights.json') as weights_file:
+            weights_dict = json.load(weights_file)
+            self.weights = [np.array(json.loads(weights_dict[k])) for k in weights_dict]
 
-        biases_file = open(r'biases.json')
-        biases_dict = json.load(biases_file)
-        self.biases = [np.array(json.loads(biases_dict[k])) for k in biases_dict]
+        with open(fr'saves\{save}\biases.json') as biases_file:
+            biases_dict = json.load(biases_file)
+            self.biases = [np.array(json.loads(biases_dict[k])) for k in biases_dict]
 
         self.errors = 0
 
@@ -46,6 +46,9 @@ class Network:
             a = self.sigmoid(z)
             a_list.append(a)
         return a, z_list, a_list
+
+    def set_learning_rate(self, learning_rate):
+        self.learning_rate = learning_rate
 
     def compute_cost(self, output):
         return (output - self.expected_output) ** 2
