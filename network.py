@@ -18,11 +18,11 @@ class Network:
         self.input_layer = np.zeros((28 * 28, 1))
         self.expected_output = np.zeros((10, 1))
 
-        with open(r'saves\%s\weights.json' % save) as weights_file:
+        with open(fr'saves\{save}\weights.json') as weights_file:
             weights_dict = json.load(weights_file)
             self.weights = [np.array(json.loads(weights_dict[k])) for k in weights_dict]
 
-        with open(r'saves\%s\biases.json' % save) as biases_file:
+        with open(fr'saves\{save}\biases.json') as biases_file:
             biases_dict = json.load(biases_file)
             self.biases = [np.array(json.loads(biases_dict[k])) for k in biases_dict]
 
@@ -46,6 +46,9 @@ class Network:
             a = self.sigmoid(z)
             a_list.append(a)
         return a, z_list, a_list
+
+    def set_learning_rate(self, learning_rate):
+        self.learning_rate = learning_rate
 
     def compute_cost(self, output):
         return (output - self.expected_output) ** 2

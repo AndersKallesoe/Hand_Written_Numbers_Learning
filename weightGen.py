@@ -15,7 +15,7 @@ def generate_weights(layer_dims, save, seed=None):
     # }
     weight_dict = {'syn_weight_' + str(i + 1): w for i, w in zip(list(range(len(weights))), weights)}
 
-    with open(r'saves\%s\weights.json' % save, 'w') as weight_file:
+    with open(fr'saves\{save}\weights.json', 'w') as weight_file:
         json.dump(weight_dict, weight_file)
 
 def generate_biases(layer_dims, save):
@@ -26,6 +26,6 @@ def generate_biases(layer_dims, save):
     # }
     biases_dict = {'syn_weight_' + str(i + 1): json.dumps((np.zeros((b, ))).tolist()) for i, b in zip(list(range(len(layer_dims))), layer_dims[1:])}
 
-    with open(r'saves\%s\biases.json' % save, 'w') as biases_file:
+    with open(fr'saves\{save}\biases.json', 'w') as biases_file:
         json.dump(biases_dict, biases_file)
 
